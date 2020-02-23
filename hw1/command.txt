@@ -1,0 +1,6 @@
+For Task 1: run PR.py with PyCharm.
+
+For Task 2:
+First, run command " /Users/dchen/Documents/2020Spring/IR/Galago/bin/galago build --indexPath=./indexing/ --inputPath+./trecText.gz --nonStemmedPostings=true --stemmedPostings=true --stemmer+krovetz --corpus=true --tokenizer/fields+title --tokenizer/fields+author --tokenizer/fields+source --tokenizer/fields+text " in terminal
+
+Second, run indexing.java with Eclipse.
