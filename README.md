@@ -1,3 +1,4 @@
 # Information-Retrieval
 
-hw1. Page Rank, Galago
+HW1  
+Page Rank, Galago
