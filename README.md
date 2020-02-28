@@ -1,4 +1,5 @@
 # Information-Retrieval
 
-HW1  
-Page Rank, Galago
+##HW1 primary mission
+###Implement Page Rank algorithm  
+###Galago application  
