@@ -6,4 +6,4 @@ Course home page: http://cs6550.aiqingyao.org/
 * Evaluation Metrics
 * Text Processing and Indexing
 * Implement Page Rank algorithm  
-* Galago application  
+* Indexing: Galago application  
