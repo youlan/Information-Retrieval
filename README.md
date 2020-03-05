@@ -2,6 +2,8 @@
 Course home page: http://cs6550.aiqingyao.org/
 
 
-### HW1 primary mission
+### HW1
+* Evaluation Metrics
+* Text Processing and Indexing
 * Implement Page Rank algorithm  
 * Galago application  
